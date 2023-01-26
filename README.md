@@ -8,8 +8,8 @@
 
 Need centos 7 linux.
 
-Download this: https://anonfiles.com/N8regaUcyf/api 
-And add it to Atomic API Funnel folder. (Too big for github.)
+- Download this: https://anonfiles.com/N8regaUcyf/api 
+- And add it to Atomic API Funnel folder. (Too big for github.)
 
 yum update -y
 yum upgrade -y
