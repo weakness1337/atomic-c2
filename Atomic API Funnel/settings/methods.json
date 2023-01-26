@@ -1,0 +1,134 @@
+{
+    "UDP": {
+        "apis": {
+            "Rewin-API": "UDPV2"
+        },
+        "time": 1200
+    },
+    "TCP": {
+        "apis": {
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "OVH": {
+        "apis": {
+            "Rewin-API": "OVH-SYN"
+        },
+        "time": 1200
+    },
+    "NFO": {
+        "apis": {
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "GAME": {
+        "apis": {
+            "Rewin-API": "OVH-UDP"
+        },
+        "time": 1200
+    },
+    "HTTPS": {
+        "apis": {
+            "Rewin-API": "HTTP-RAW"
+        },
+        "time": 1200
+    },
+    "FIVEM": {
+        "apis": {
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "SYN": {
+        "apis": {
+            "Rewin-API": "SYNACK"
+        },
+        "time": 1200
+    },
+    "CLOUDF": {
+        "apis": {
+            "Rewin-API": "TLS"
+        },
+        "time": 1200
+    },
+    "CONS": {
+        "apis": {
+            "AtomicRAW": "JUNK"
+        },
+        "time": 1200
+    },
+    "CYBER": {
+        "apis": {
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "CLIMAX": {
+        "apis": {
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "HYPER": {
+        "apis": {
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "WHOST": {
+        "apis": {
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "LABIXE": {
+        "apis": {
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "UDP1": {
+        "apis": {
+            "AtomicRAW": "UDP1",
+            "Rewin-API": "UDPV2"
+        },
+        "time": 1200
+    },
+    "XTD": {
+        "apis": {
+            "AtomicRAW": "XTD",
+            "Rewin-API": "UDPV2"
+        },
+        "time": 1200
+    },
+    "SOCK": {
+        "apis": {
+            "AtomicRAW": "HOLD",
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "RAND": {
+        "apis": {
+            "AtomicRAW": "RAND",
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "NFO1": {
+        "apis": {
+            "AtomicRAW": "NFO1",
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    },
+    "VSE": {
+        "apis": {
+            "AtomicRAW": "VSE",
+            "Rewin-API": "TCPV3"
+        },
+        "time": 1200
+    }
+}

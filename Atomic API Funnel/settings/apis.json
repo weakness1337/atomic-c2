@@ -1,0 +1,10 @@
+{
+    "AtomicRAW": {
+        "URL": "http://134.122.113.192/Atomic/?key=srhgrfhfgdsgf&host={host}&port={port}&time={time}&method={method}",
+        "max_time": 1200
+    },
+    "Rewin-API": {
+        "URL": "http://54.37.204.65/api/?key=rrewin3377&host={host}&port={port}&time={time}&method={method}",
+        "max_time": 1200
+    }
+}
